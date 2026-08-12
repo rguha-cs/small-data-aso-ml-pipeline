@@ -1,0 +1,43 @@
+# ============================================================
+# Python environment
+# ============================================================
+# Recommended Python version: 3.10.x
+# Development notebooks were created under Python 3.10.18.
+
+numpy>=1.24,<3
+pandas>=2.0,<3
+scipy>=1.10,<2
+scikit-learn>=1.3,<2
+matplotlib>=3.7,<4
+PyYAML>=6.0,<7
+openpyxl>=3.1,<4
+
+# ============================================================
+# Notebook execution
+# ============================================================
+
+jupyterlab>=4,<5
+notebook>=7,<8
+ipykernel>=6,<7
+
+# ============================================================
+# External dependency
+# ============================================================
+#
+# ViennaRNA v2.4.7 was used for manuscript feature generation.
+# ViennaRNA is a system dependency and is NOT installed through
+# this requirements.txt.
+#
+# Required executables when recomputing biophysical features:
+#   RNAduplex
+#   RNAplfold
+#
+# Verify availability with:
+#   RNAduplex --version
+#   RNAplfold --version
+#
+# Cached feature matrices supplied in features/ are recommended
+# for reproducing the reported manuscript analyses.
+#
+# NUPACK is supported as an optional alternative backend but is
+# not required for manuscript reproduction.

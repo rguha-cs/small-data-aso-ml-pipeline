@@ -1,0 +1,4 @@
+short,long,MAE_wetlab
+Sequence-only,"Sequence only (k-mers, GC, wing/gap GC)",19.9
++Thermodynamics,RNA:DNA NN thermodynamics + binding-site mapping,11.5
++Thermodynamics +Accessibility,RNAplfold ED + ΔG_eff; ATXN2-only (best transfer),10.0

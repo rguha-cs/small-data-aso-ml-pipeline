@@ -1,0 +1,12 @@
+{
+  "alpha": 10.0,
+  "LOOCV_MAE": 0.0793522839660174,
+  "LOOCV_R2": -0.4382020238333473,
+  "RMSE": 0.09911220640514518,
+  "calibration_intercept": -0.4286431758359146,
+  "calibration_slope": -0.8731545362878317,
+  "perm_spearman_mean": 0.01301587301587302,
+  "perm_spearman_p05": -0.523809523809524,
+  "perm_spearman_p95": 0.5964285714285718,
+  "perm_spearman_n": 300
+}

@@ -1,0 +1,8 @@
+Supplementary Figure S8. Leave-one-family-out validation of one-shot calibration on literature-derived ASO families.
+
+Distributions show the change in mean absolute error (ΔMAE = uncalibrated − calibrated) resulting from one-shot family calibration under a leave-one-family-out (LOFO) simulation. For each family, a single ASO was randomly selected as a calibration reference, an additive offset was applied to the remaining ASOs, and performance was evaluated on the held-out family. This procedure was repeated 1,000 times per family.
+
+(A) Robust families with at least five ASOs (n ≥ 5).
+(B) All evaluated families, including smaller family groups, shown for completeness.
+
+Positive ΔMAE values indicate improved accuracy following calibration. The dashed horizontal line denotes no net change in error.

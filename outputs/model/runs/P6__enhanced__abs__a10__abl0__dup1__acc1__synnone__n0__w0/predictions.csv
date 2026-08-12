@@ -1,0 +1,9 @@
+aso_id,target,KD_true,KD_pred_LOOCV,mode,relative,alpha,neg_dG_bind_source,use_duplex,use_access,synthetic,synth_n_per_real,synth_weight
+19,DAZ,0.3297144428999999,0.2852361637006532,enhanced,False,10.0,thermo,1,1,none,,
+20,DAZ,0.2088619018999999,0.32728805039303893,enhanced,False,10.0,thermo,1,1,none,,
+21,DAZ,0.2656134235999999,0.307262850916803,enhanced,False,10.0,thermo,1,1,none,,
+22,DAZ,0.2498379009,0.30664140423839437,enhanced,False,10.0,thermo,1,1,none,,
+23,DAZ,0.2654943136,0.3033059124348663,enhanced,False,10.0,thermo,1,1,none,,
+24,DAZ,0.2918373244,0.31970481783492666,enhanced,False,10.0,thermo,1,1,none,,
+8,FAM,0.3757914482,0.28534466272047704,enhanced,False,10.0,thermo,1,1,none,,
+10,FAM,0.488319693,0.27098465736875993,enhanced,False,10.0,thermo,1,1,none,,

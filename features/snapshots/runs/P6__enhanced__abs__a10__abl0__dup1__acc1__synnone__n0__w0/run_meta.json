@@ -1,0 +1,10 @@
+{
+  "phase": "P6",
+  "feature_set": "None",
+  "calibration": "linear",
+  "calibration_scope": "global",
+  "ridge_alpha": 10.0,
+  "partial_pooling": null,
+  "timestamp": "2026-08-12T14:23:52",
+  "model_run_dir": "/mnt/c/Users/HP/Desktop/folder to test igem model sharing for Frontiers reviewers/igemModel copy/outputs/model/runs/P6__enhanced__abs__a10__abl0__dup1__acc1__synnone__n0__w0"
+}

@@ -1,0 +1,9 @@
+ASO ID,Target family,Observed knockdown (%KD),Uncalibrated predicted knockdown (%KD),One-shot calibrated predicted knockdown (%KD),Role in one-shot calibration
+19,DAZ,32.97,80.84,26.16,Independent evaluation ASO
+20,DAZ,20.89,80.84,26.16,Independent evaluation ASO
+21,DAZ,26.56,81.23,26.55,Independent evaluation ASO
+22,DAZ,24.98,81.23,26.55,Independent evaluation ASO
+23,DAZ,26.55,81.23,26.55,Calibration reference
+24,DAZ,29.18,81.23,26.55,Independent evaluation ASO
+8,FAM,37.58,80.7,37.58,Calibration reference
+10,FAM,48.83,81.23,38.11,Independent evaluation ASO

@@ -1,0 +1,28 @@
+{
+  "run_id": "P6__enhanced__abs__a10__abl0__dup1__acc1__synnone__n0__w0",
+  "phase": "P6",
+  "mode": "enhanced",
+  "relative": false,
+  "alpha": 10.0,
+  "ablation": false,
+  "neg_dG_bind_source": "thermo",
+  "use_duplex": 1,
+  "use_access": 1,
+  "synthetic": "none",
+  "synth_n_per_real": null,
+  "synth_weight": null,
+  "artifacts": {
+    "metrics_json": "/mnt/c/Users/HP/Desktop/folder to test igem model sharing for Frontiers reviewers/igemModel copy/outputs/model/runs/P6__enhanced__abs__a10__abl0__dup1__acc1__synnone__n0__w0/metrics_enhanced.json",
+    "coef_csv": "/mnt/c/Users/HP/Desktop/folder to test igem model sharing for Frontiers reviewers/igemModel copy/outputs/model/runs/P6__enhanced__abs__a10__abl0__dup1__acc1__synnone__n0__w0/coef_enhanced.csv",
+    "predictions_csv": "/mnt/c/Users/HP/Desktop/folder to test igem model sharing for Frontiers reviewers/igemModel copy/outputs/model/runs/P6__enhanced__abs__a10__abl0__dup1__acc1__synnone__n0__w0/predictions.csv",
+    "ablation_csv": null,
+    "logo_abs_csv": null,
+    "logo_rel_csv": null,
+    "logo_abs_summary_json": null,
+    "logo_rel_summary_json": null,
+    "calibration_png": "/mnt/c/Users/HP/Desktop/folder to test igem model sharing for Frontiers reviewers/igemModel copy/outputs/figures/calibration_enhanced__abs.png",
+    "features_step2_snapshot": null,
+    "features_gold_snapshot": null,
+    "feat_path_used": "/mnt/c/Users/HP/Desktop/folder to test igem model sharing for Frontiers reviewers/igemModel copy/features/snapshots/aso_features_phase10b_with_thermo.csv"
+  }
+}

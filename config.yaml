@@ -1,0 +1,17 @@
+# Rename/copy this file to config.yaml in the project root.
+
+PROJECT_ROOT: .
+DATA_DIR: data
+FEATURES_DIR: features
+THERMO_CACHE_DIR: thermo_cache
+SYNTHETIC_DIR: synthetic
+MODEL_DIR: model
+PREDICTIONS_DIR: predictions
+FIGURES_DIR: figures
+RESULTS_DIR: results
+
+RESULTS_ROOT: results
+PHASE: P8
+EXPERIMENT_TAG: p8a_gene_resid_core
+TIMESTAMPED_SUBDIRS: true
+REFUSE_OVERWRITE: false
